@@ -1,4 +1,5 @@
 test me
 <cfset tt='asdfasdf'>
-<cfoutput>#tt#</cfoutput>
+<cfset tt2 = 'github change'>
+<cfoutput>#tt#<br><br>#tt2#</cfoutput>
 asdfsadfsafda
